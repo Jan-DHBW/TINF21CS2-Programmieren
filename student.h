@@ -6,8 +6,5 @@ struct student {
     unsigned int matrikelnummer;
     struct date startDatum;
     struct date endDatum;
-    
 
-    
-       
 };
