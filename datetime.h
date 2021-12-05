@@ -1,10 +1,9 @@
-struct date
-{
+struct date {
    int day;
    int month;
    int year;
    //der Tag des Jahres 325
-};
+} geb_dat, start_dat, end_dat; //direkte Initialisierung der drei notwenigen Struckts für Geburtstag, Startdatum, Enddatum
 
 
 
