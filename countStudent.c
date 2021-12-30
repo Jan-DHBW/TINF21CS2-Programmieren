@@ -6,7 +6,7 @@ int countStudent(){
     struct student *currentStudent = firstStudent;
     while (currentStudent != NULL)
     {
-        counter++
+        counter++;
     }
     printf("Anzahl der Studenten im Programm beträgt: %d \n", counter);
 
